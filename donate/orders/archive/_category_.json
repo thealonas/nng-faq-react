@@ -1,0 +1,8 @@
+{
+  "label": "🗄️ Архив",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Выполненные заказы."
+  }
+}
